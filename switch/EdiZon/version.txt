@@ -1,0 +1,4 @@
+3.7.17
+For Super Mario™ 3D All-Stars when one of the game is running the title id seen by cheat gui is not the same as the one use with game save. This cause the game save to not show up when last played game save is suppose to show up in earlier release.
+Game with unsupported save type ( for example Animal Crossing™: New Horizons ) will be reported as not found with a different error message. Relaunching will display all game saves instead of staying at the not found screen. 
+Provided option to opt for all game save to be displayed all the time. To enable create /switch/EdiZon/showallsaves.txt.
