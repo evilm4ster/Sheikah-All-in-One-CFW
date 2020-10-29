@@ -1,4 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="SheikahAllinOneCFW_0"></a>Sheikah-All-in-One-CFW</h1>
+<p>Thanks to mrdude because of AutoIPS sig Patcher (WORKING Very WELL!!!!) and Thanks to ShadowOne333 who share Sigpatches for Atmosphere :D</p>
 <p class="has-line-data" data-line-start="1" data-line-end="9">What’s in this pack:<br>
 Atmosphere 0.15 Authors and maintained by SciresM, TuxSH, hexkyz, and fincs<br>
 Hekate 5.3.4 Authors: naehrwert, st4rk, CTCaer.<br><br>
